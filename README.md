@@ -95,6 +95,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/InventedSarawak/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/InventedSarawak/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/InventedSarawak/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/InventedSarawak/DSA/tree/master/1448-maximum-69-number) |
@@ -113,6 +114,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InventedSarawak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/InventedSarawak/Leetcode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/InventedSarawak/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -120,10 +122,12 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | ------- |
 | [0326-power-of-three](https://github.com/InventedSarawak/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/InventedSarawak/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/InventedSarawak/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/InventedSarawak/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
