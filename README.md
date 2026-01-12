@@ -139,6 +139,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/InventedSarawak/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Binary Search
 |  |
