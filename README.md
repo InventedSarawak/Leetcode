@@ -65,6 +65,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/InventedSarawak/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/InventedSarawak/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/InventedSarawak/DSA/tree/master/0485-max-consecutive-ones) |
 | [0845-longest-mountain-in-array](https://github.com/InventedSarawak/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/InventedSarawak/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
