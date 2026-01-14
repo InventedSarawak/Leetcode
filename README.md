@@ -50,6 +50,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0001-two-sum](https://github.com/InventedSarawak/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/InventedSarawak/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/InventedSarawak/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/InventedSarawak/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/InventedSarawak/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | ------- |
 | [0015-3sum](https://github.com/InventedSarawak/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/InventedSarawak/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
