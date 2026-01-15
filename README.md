@@ -60,6 +60,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -150,6 +151,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -225,6 +227,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/InventedSarawak/DSA/tree/master/0238-product-of-array-except-self) |
 ## Greedy
 |  |
@@ -238,6 +241,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/InventedSarawak/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
 
