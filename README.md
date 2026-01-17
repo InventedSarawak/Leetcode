@@ -70,6 +70,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/InventedSarawak/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/InventedSarawak/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/InventedSarawak/Leetcode/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/InventedSarawak/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/InventedSarawak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -153,6 +154,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/InventedSarawak/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
