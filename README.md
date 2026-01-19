@@ -72,6 +72,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0485-max-consecutive-ones](https://github.com/InventedSarawak/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/InventedSarawak/Leetcode/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/InventedSarawak/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/InventedSarawak/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/InventedSarawak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/InventedSarawak/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -155,6 +156,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/InventedSarawak/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/InventedSarawak/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
