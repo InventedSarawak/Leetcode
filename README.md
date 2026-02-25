@@ -94,6 +94,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/InventedSarawak/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
@@ -118,6 +119,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/InventedSarawak/DSA/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/InventedSarawak/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/InventedSarawak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -147,6 +149,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0049-group-anagrams](https://github.com/InventedSarawak/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/InventedSarawak/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -249,6 +252,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0003-longest-substring-without-repeating-characters](https://github.com/InventedSarawak/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
 
 ---
