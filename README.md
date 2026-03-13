@@ -80,6 +80,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/InventedSarawak/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3861-minimum-capacity-box](https://github.com/InventedSarawak/Leetcode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
