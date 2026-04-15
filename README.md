@@ -52,6 +52,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/InventedSarawak/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/InventedSarawak/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/InventedSarawak/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InventedSarawak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +117,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0015-3sum](https://github.com/InventedSarawak/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/InventedSarawak/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
@@ -127,6 +129,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InventedSarawak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/InventedSarawak/Leetcode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/InventedSarawak/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -254,6 +257,14 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
 
 ---
