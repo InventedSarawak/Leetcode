@@ -223,10 +223,12 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -265,6 +267,14 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
 
 ---
