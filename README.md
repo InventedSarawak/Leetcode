@@ -223,6 +223,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -270,11 +271,17 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
 
 ---
