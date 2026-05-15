@@ -67,6 +67,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/InventedSarawak/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/InventedSarawak/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/InventedSarawak/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -197,6 +198,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/InventedSarawak/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -262,6 +264,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0076-minimum-window-substring](https://github.com/InventedSarawak/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/InventedSarawak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/InventedSarawak/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -285,6 +288,14 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/InventedSarawak/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/InventedSarawak/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
 
 ---
