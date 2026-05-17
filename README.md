@@ -55,6 +55,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/InventedSarawak/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/InventedSarawak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/InventedSarawak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/InventedSarawak/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/InventedSarawak/DSA/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0036-valid-sudoku](https://github.com/InventedSarawak/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/InventedSarawak/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/InventedSarawak/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/InventedSarawak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/InventedSarawak/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -192,6 +194,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/InventedSarawak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -279,11 +282,13 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/InventedSarawak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/InventedSarawak/Leetcode/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/InventedSarawak/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
