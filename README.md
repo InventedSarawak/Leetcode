@@ -103,6 +103,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/InventedSarawak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/InventedSarawak/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/InventedSarawak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +271,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0219-contains-duplicate-ii](https://github.com/InventedSarawak/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/InventedSarawak/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/InventedSarawak/Leetcode/tree/master/0567-permutation-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/InventedSarawak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
