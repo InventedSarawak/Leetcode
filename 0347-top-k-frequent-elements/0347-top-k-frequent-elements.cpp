@@ -15,7 +15,7 @@ public:
         }
 
         vector<int> out;
-        while (heap.size() > 0) {
+        while (!heap.empty()) {
             out.push_back(heap.top().second);
             heap.pop();
         }
