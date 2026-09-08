@@ -18,9 +18,6 @@
                 if (members.size() != seen.size()) {
                     return false;
                 }
-
-                members.clear();
-                seen.clear();
             }
 
 
