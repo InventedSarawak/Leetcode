@@ -1,6 +1,32 @@
     class Solution {
     public:
         bool isValidSudoku(vector<vector<char>>& board) {
+
+            // check for rows and cols to be unique
+            for (int i = 0; i < 9; i++) {
+                vector<int> rows;
+                vector<int> cols;
+
+                for (int j = 0; j < 9; j++) {
+                    char currRow = board[i][j];
+                    char currCol = board[j][i];
+
+                    if (currRow != '.') {
+                        rows.push_back(currRow);
+                    }
+
+                    if (currCol != '.') {
+                        cols.push_back(currCol);
+                    }
+                }
+
+                if (unordered_set<int>(rows.begin(), rows.end()).size() != rows.size() ||
+                    unordered_set<int>(cols.begin(), cols.end()).size() != cols.size()) {
+                    return false;
+                }
+
+            }
+
             // check in same grid
             for (int g = 0; g < 9; g++) {
                 vector<int> members;
@@ -17,41 +43,6 @@
 
                 if (members.size() != seen.size()) {
                     return false;
-                }
-            }
-
-
-            for (int y = 0; y < 9; y++) {
-                for (int x = 0; x < 9; x++) {
-                    // check in same row
-                    for (int i = 0; i < 9; i++) {
-                        if (i == x) {
-                            continue;
-                        }
-
-                        if (board[y][i] == '.') {
-                            continue;
-                        }
-
-                        if (board[y][x] == board[y][i]) {
-                            return false;
-                        }
-                    }
-
-                    // check in same col
-                    for (int i = 0; i < 9; i++) {
-                        if (i == y) {
-                            continue;
-                        }
-
-                        if (board[i][x] == '.') {
-                            continue;
-                        }
-
-                        if (board[y][x] == board[i][x]) {
-                            return false;
-                        }
-                    }
                 }
             }
 
