@@ -15,8 +15,12 @@ public:
                 if (nums[l] + nums[r] < target) l++;
                 else if (nums[l] + nums[r] > target) r--;
                 else {
-                    res.push_back({nums[i], nums[l], nums[r]});                    
-                    while (l < r && nums[++l] == nums[l - 1]) continue;
+                    res.push_back({nums[i], nums[l], nums[r]});
+                    l ++;                 
+                    while (l < r && nums[l] == nums[l - 1]) {
+                        l ++;
+                        continue;
+                    }
                 }
                     
             }
