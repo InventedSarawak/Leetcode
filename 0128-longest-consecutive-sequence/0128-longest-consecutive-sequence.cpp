@@ -1,10 +1,6 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        if (nums.size() == 0) {
-            return 0;
-        }
-
         unordered_set<int> unique = unordered_set(nums.begin(), nums.end());
         int maxSeq = 0, currSeq = 0, currNum = 0;
         for (int num: unique) {
