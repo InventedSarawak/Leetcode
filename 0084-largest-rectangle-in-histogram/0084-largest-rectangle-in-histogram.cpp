@@ -6,16 +6,15 @@ public:
         int maxArea = 0;
 
         for (int i = 0; i <= len; i++) {
-            int curr;
-            if (i == len) curr = 0;
-            else curr = heights[i];
+            int curr = 0;
+            if (i != len) curr = heights[i];
 
             while (!st.empty() && curr < heights[st.top()]) {
                 int height = heights[st.top()];
+                int width = i;
                 st.pop();
-                int width;
-                if (st.empty()) width = i;
-                else width = i - st.top() - 1;
+                
+                if (!st.empty()) width = i - st.top() - 1;
                 maxArea = max(maxArea, width * height);
             }
 
