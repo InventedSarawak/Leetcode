@@ -133,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/InventedSarawak/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0507-perfect-number](https://github.com/InventedSarawak/Leetcode/tree/main/0507-perfect-number/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
