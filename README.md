@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/InventedSarawak/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/InventedSarawak/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/InventedSarawak/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/InventedSarawak/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/InventedSarawak/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -85,6 +86,7 @@
 | [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/InventedSarawak/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/InventedSarawak/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/InventedSarawak/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/InventedSarawak/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0507-perfect-number](https://github.com/InventedSarawak/Leetcode/tree/main/0507-perfect-number/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
