@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/InventedSarawak/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/InventedSarawak/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/InventedSarawak/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/InventedSarawak/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/InventedSarawak/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/InventedSarawak/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/InventedSarawak/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/InventedSarawak/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/InventedSarawak/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/InventedSarawak/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -88,6 +90,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/InventedSarawak/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/InventedSarawak/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/InventedSarawak/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/InventedSarawak/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/InventedSarawak/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
